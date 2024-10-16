@@ -1,4 +1,3 @@
-print('hello world jnjnjnjn🙂')
 # Solicita ao usuário para inserir dois números
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
