@@ -66,7 +66,7 @@ for i in range(linhas):
         else:
             matrix_segmentada[i,j] = 255
 
-fig, axs = plt.subplots(1,1)
+fig, axs = plt.subplots(1,3)
 axs[0].imshow(matrix_segmentada, cmap = "gray")
 axs[0].set_title("Imagem Segmentada")       
 

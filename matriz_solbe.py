@@ -26,7 +26,7 @@ def imagem_to_cinza(matrix_colorida: np.array) -> np.array:
     return matrix_gray
 
 
-nome_file = os.path.join('images', 'Red_Wine_Glass.jpg')
+nome_file = os.path.join('images', 'magenta-dresses.jpg')
 
 matriz_colorida = file_to_matriz(nome_file)
 
